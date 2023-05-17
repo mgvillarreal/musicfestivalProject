@@ -22,9 +22,13 @@ This website was built using HTML, SASS and JavaScript.
 Contributions are not currently being accepted for this project.
 
 ### Images
-Some images of how this website looks in different resolutions.
+Some images of how this website looks in different resolutions:
 
 ![Screenshot of My Project](/build/img/README/musicfestival1.png "Index Page with Header")
+
+![Screenshot of My Project](/build/img/README/musicfestival2.png "Index Page Line Up Section")
+
+![Screenshot of My Project](/build/img/README/musicfestival3.png "Index Page Gallery Section")
 
 ### Authors
 I did this project for educational purposes as a frontend practice.

@@ -8,7 +8,7 @@ This is a repository for a Music Festival. The main goal of the site is to showc
 
 This website has a header with a video and a navegation bar, 4 sections: about the festival, line up, gallery and tickets. Also has a footer.
 
-If you want to see the website alive, you can go to: [Music Festival Project](https://splendorous-cobbler-940a86.netlify.app/).
+If you want to see this website live, you can go to: [Music Festival Project](https://splendorous-cobbler-940a86.netlify.app/).
 
 ### Technologies Used
 This website was built using HTML, SASS and JavaScript.
@@ -23,6 +23,8 @@ Contributions are not currently being accepted for this project.
 
 ### Images
 Some images of how this website looks in different resolutions.
+
+![Screenshot of My Project](/build/img/README/musicfestival1.png "Index Page with Header")
 
 ### Authors
 I did this project for educational purposes as a frontend practice.
